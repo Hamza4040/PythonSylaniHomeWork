@@ -1,0 +1,8 @@
+print("List down the Benefits of OOP?")
+print()
+print("(1) Reusability")
+print("(2) Extensibility")
+print("(3) Decomposability")
+print("(4) Composability")
+print("(5) Understandability")
+print("(6) Security")
